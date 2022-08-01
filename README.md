@@ -1,4 +1,5 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Page layout for Bose Corporation using HTML5, CSS3, SASS and BEM methodology.
+
+    - DEMO LINK https://mikhail-shchuka.github.io/bose_landing/
+    - Figma design https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1
